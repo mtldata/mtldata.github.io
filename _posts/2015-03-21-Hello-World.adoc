@@ -2,4 +2,7 @@
 
 == Testing, Test.
 
-The quick brown fox jumped ... [here](https://jupyter.org/)
+:hp-tags: Data, Blog, FirstPost
+The quick brown fox jumped ... 
+
+video::KCylB780zSM[youtube]
